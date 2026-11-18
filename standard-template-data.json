@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-11-08T04:46:41.472678057Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-11-18T05:38:22.016123698Z",
     "templateType": "trip_b",
     "propertyId": "647a3d7d-638d-4064-a505-65ec9a2b5f91",
     "homepageId": "01a1abb1-003d-766b-a68d-a7774ee71265"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 23시 이후 도착할 시에는 사전 연락 바랍니다.",
-    "usageGuide": "- 겨울철 당일 예약 시 사전 문의 필수\n- 전 객실 금연 구역입니다.\n- 폭죽 사용 금지입니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 23시 이후 도착할 시에는 사전 연락 바랍니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 1인 20,000원\n(1박기준/현장결제)\n※ 객실 금액은 기준 인원에 대한 금액으로 기준 인원 초과 시 추가요금이 발생합니다. 예약 시 예약 인원을 꼭 확인해주세요.\n\n[개별바베큐]\n- 바베큐 형태: 숯불 (전 객실 개별 테라스 외벽 설치 완료)\n- 이용 요금: 2인 기준 20,000원 (1박기준/현장결제)\n- 이용 시간: 15:00 ~ 00:00\n- 신청 시간: 15:00 ~ 20:00\n- 우천 시 이용 불가\n- 동계 시 이용 불가\n※ 숯, 그릴 개인 지참 불가\n※ 우천 및 동계시 객실 옆 바베큐장 이용\n\n[공용수영장]\n- 운영 기간: 2026년 6월 27일 ~ 2026년 9월 13일 (날씨 상황에 따라 종료 일자가 변경 될 수 있습니다)\n- 이용 요금: 무료\n- 이용 시간: 15:00 ~ 20:00\n- 이용 복장: 수영복, 래쉬가드, 면티\n- 우천 시 이용 불가\n※ 수영장 내에서 흡연 금지\n\n[스파]\n- 이용 객실: 전 객실\n- 이용 요금: 무료\n- 이용 시간: 입실 후 ~ 00:00\n- 이용 횟수: 1회\n- 입욕제 사용 가능\n※ 단, 오일 제품, 색깔이 진하거나 가루가 있는 제품은 사용 불가\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 마트: 하나로마트 가평군농협조종점 (차량 16분)\n- 편의점: 세븐일레븐 가평수목원2호점 (도보 2분)\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 객실 당 1대 주차 가능\n\n[픽업]\n- 픽업 종류: 마트픽업\n- 이용 장소: 청평 365마트, 레몬마트\n※ 일정 금액 구매 이상 시, 입실 픽업 가능\n※ 이용 관련은 마트 사전 문의 필수",
+    "usageGuide": "[공지사항]\n- 겨울철 당일 예약 시 사전 문의 필수\n- 전 객실 금연 구역입니다.\n- 폭죽 사용 금지입니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 23시 이후 도착할 시에는 사전 연락 바랍니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 객실 금액은 기준 인원에 대한 금액으로 기준 인원 초과 시 추가요금이 발생합니다. 예약 시 예약 인원을 꼭 확인해주세요.\n\n[개별바베큐]\n- 바베큐 형태: 숯불 (전 객실 개별 테라스 외벽 설치 완료)\n- 이용 요금: 2인 기준 20,000원 (1박기준/현장결제)\n- 이용 시간: 15:00 ~ 00:00\n- 신청 시간: 15:00 ~ 20:00\n- 우천 시 이용 불가\n- 동계 시 이용 불가\n※ 숯, 그릴 개인 지참 불가\n※ 우천 및 동계시 객실 옆 바베큐장 이용\n\n[공용수영장]\n- 운영 기간: 2026년 6월 27일 ~ 2026년 9월 13일 (날씨 상황에 따라 종료 일자가 변경 될 수 있습니다)\n- 이용 요금: 무료\n- 이용 시간: 15:00 ~ 20:00\n- 이용 복장: 수영복, 래쉬가드, 면티\n- 우천 시 이용 불가\n※ 수영장 내에서 흡연 금지\n\n[스파]\n- 이용 객실: 전 객실\n- 이용 요금: 무료\n- 이용 시간: 입실 후 ~ 00:00\n- 이용 횟수: 1회\n- 입욕제 사용 가능\n※ 단, 오일 제품, 색깔이 진하거나 가루가 있는 제품은 사용 불가\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 마트: 하나로마트 가평군농협조종점 (차량 16분)\n- 편의점: 세븐일레븐 가평수목원2호점 (도보 2분)\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 객실 당 1대 주차 가능\n\n[픽업]\n- 픽업 종류: 마트픽업\n- 이용 장소: 청평 365마트, 레몬마트\n※ 일정 금액 구매 이상 시, 입실 픽업 가능\n※ 이용 관련은 마트 사전 문의 필수",
     "reservationGuide": "- 겨울철 당일 예약 시 사전 문의 필수\n- 전 객실 금연 구역입니다.\n- 폭죽 사용 금지입니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -263,7 +263,7 @@
           {
             "id": "2cdb13c1-3963-4fdc-9705-df047b784572",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/24/ZsS87DLKvoGa.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -273,7 +273,7 @@
           {
             "id": "4438e19c-8b08-4ad4-92ca-f16a9d1ba279",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/24/529Bu7V8eYi1.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -281,7 +281,7 @@
           {
             "id": "b7b1b19c-394c-4f0a-a3c3-7e246e4b2c4b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/24/sowYf6Ol48nm.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -289,7 +289,7 @@
           {
             "id": "56a808e7-d6ca-4ef0-8373-849fe1a33fc4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/24/243smlARVZUH.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -297,7 +297,7 @@
           {
             "id": "b76ea932-be0f-485b-85fd-b7fa9eac8550",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/24/73duC1bHALhq.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -305,7 +305,7 @@
           {
             "id": "2756e8b5-abde-44d3-a281-8506094dd8fc",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/24/P03VYt5GD7x8.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -313,7 +313,7 @@
           {
             "id": "4cc3204b-1d6f-4bfb-a1d4-c0e588299d72",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/24/kXeFnVQ74tfB.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -321,7 +321,7 @@
           {
             "id": "935ef7ff-77ce-4929-ac0c-e23be2605cdd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/24/whzjSO8FTYR9.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -329,7 +329,7 @@
           {
             "id": "142f0ae1-1ce5-4cab-929a-cfa6c194e89d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/24/aiemJDSO4wBj.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -2377,7 +2377,8 @@
         }
       ],
       "footer": {
-        "ruralStayMark": null
+        "ruralStayMark": null,
+        "ruralStayMarks": [ ]
       }
     }
   }
